@@ -1,0 +1,5 @@
+image: wadoon/key-test-docker:jdk17
+
+vscode:
+  extensions:  
+    - https://github.com/wadoon/vscode-jml-gitpod/raw/main/jml-vscode-0.3.0.vsix
